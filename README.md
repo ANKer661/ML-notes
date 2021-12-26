@@ -1,3 +1,4 @@
 # blah-blah
-Notes of Machine Learning ＆ Deep Learning Specialization from Coursera. /n
-The note is in 'Release'. You should see a pdf file there.
+Notes of Machine Learning ＆ Deep Learning Specialization from Coursera.
+
+The note itself is in 'Releases'. You should see a pdf file there.
